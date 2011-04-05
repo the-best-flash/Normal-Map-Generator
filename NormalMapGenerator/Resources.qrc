@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Buttons">
+        <file>Icons/load_list.png</file>
+        <file>Icons/media-floppy.png</file>
+        <file>Icons/preferences-system.png</file>
+        <file>Icons/save_list.png</file>
+        <file>Icons/GenetateNormal.png</file>
+        <file>Icons/Preview2.png</file>
+        <file>Icons/PreviewAll2.png</file>
+        <file>Icons/go-first-red.png</file>
+        <file>Icons/go-last.png</file>
+        <file>Icons/go-next.png</file>
+        <file>Icons/go-previous_red.png</file>
+        <file>Icons/list-add.png</file>
+        <file>Icons/list-add-green.png</file>
+        <file>Icons/list-remove.png</file>
+        <file>Icons/list-remove-red.png</file>
+        <file>Icons/document-properties.png</file>
+        <file>Icons/go-down-blue.png</file>
+        <file>Icons/go-up-blue.png</file>
+        <file>Icons/folder.png</file>
+        <file>Icons/help-browser.png</file>
+        <file>Icons/info-browser.png</file>
+    </qresource>
+</RCC>
